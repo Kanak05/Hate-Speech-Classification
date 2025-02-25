@@ -1,15 +1,8 @@
 # Hate-Speech-Classification
 
 ## 1. Problem Definition
-**Objective:** To build a model that can automatically detect hate speech in text data (tweets).
-
-**Challenges:**
-- Handling imbalanced data
-- Understanding context in text
-- Dealing with noise like slang and abbreviations
-
+**Objective:** To build a model that can automatically classify/detect hate speech in text data (eg. tweets).
 ---
-
 ## 2. Dataset & Preprocessing
 **Data Source:** A dataset of tweets labeled into 3 categories:
 - **Hate Speech (Class 0)**
@@ -27,7 +20,7 @@
 ---
 
 ## 3. Models Used
-Your project explores multiple models to classify hate speech:
+This project explores multiple models to classify hate speech:
 
 ### (A) Logistic Regression
 - A simple yet effective linear model.
