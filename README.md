@@ -35,16 +35,15 @@ git clone https://github.com/Kanak05/Hate-Speech-Classification.git
 cd Hate-Speech-Classification
 ### 2. Install dependencies
 
-```bash
+
 pip install -r requirements.txt
 ### 3. Run the Flask App
 
-```bash
+
 python app.py
 
 ### 4.  Open in Browser
 
-```bash
 Go to http://127.0.0.1:5000/ in your browser.
 
 
